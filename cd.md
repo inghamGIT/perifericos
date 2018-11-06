@@ -19,6 +19,8 @@ Actualmente como soporte de datos se encuentra en desuso, pero continúa siendo 
 
 Un disco compacto cuenta con un diámetro de 120mm (existe una versión mini de 80mm), con 15mm de orificio central y un grosor de 1,2mm. En su fabricación se utiliza comúnmente aluminio como material de codificación, y policarbonato como aislante.
 
+<img src=CD.png>
+
 El reverso de un disco óptico generalmente tiene impresa una etiqueta, hecha usualmente de papel pero a veces impresa o estampada en el disco mismo. Este lado, sin codificar, del disco es típicamente cubierto con un material transparente, en general laca. A diferencia de los disquetes, la mayoría de los discos ópticos no tienen integrada una carcasa protectora y por lo tanto son susceptibles a los problemas de transferencia de datos debido a rayaduras, grietas, huellas, y otros problemas del entorno. Aunque las huellas, el polvo y la suciedad en muchos casos pueden ser removidas con un paño húmedo.
 
 A diferencia de otros formatos, como los disquetes, el disco compacto no requiere de una caja de plástico para proteger el contenido.
@@ -30,6 +32,8 @@ Las reacciones químicas entre sus componentes, además del calor y el maltrato,
 Los discos ópticos presentan una capa interna protegida, donde se guardan los bits mediante distintas tecnologías, siendo que en todas ellas dichos bits se leen merced a un rayo láser incidente. Este, al ser reflejado, permite detectar variaciones microscópicas de propiedades óptico-reflectivas ocurridas como consecuencia de la grabación realizada en la escritura. Un sistema óptico con lentes encamina el haz luminoso, y lo enfoca como un punto en la capa del disco que almacena los datos.
 
 Para su manipulación se requiere una unidad lectora, que proyecta un haz láser y un fotorreceptor, que recibe el haz tras rebotar en el disco. El láser suele ser un diodo AlGaAs con una longitud de onda en el aire de 780 nm por lo que resulta una luz invisible al ojo humano, pero no por ello inocua.
+
+<img src=lectoraCD.png>
 
 Pasos que sigue el cabezal para la lectura de un CD:
 
