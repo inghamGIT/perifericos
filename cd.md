@@ -33,7 +33,7 @@ Los discos ópticos presentan una capa interna protegida, donde se guardan los b
 
 Para su manipulación se requiere una unidad lectora, que proyecta un haz láser y un fotorreceptor, que recibe el haz tras rebotar en el disco. El láser suele ser un diodo AlGaAs con una longitud de onda en el aire de 780 nm por lo que resulta una luz invisible al ojo humano, pero no por ello inocua.
 
-<img src=lectoraCD.png>
+<img src=LectoraCD.png>
 
 Pasos que sigue el cabezal para la lectura de un CD:
 
