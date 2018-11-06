@@ -23,6 +23,8 @@ El reverso de un disco óptico generalmente tiene impresa una etiqueta, hecha us
 
 A diferencia de otros formatos, como los disquetes, el disco compacto no requiere de una caja de plástico para proteger el contenido.
 
+Las reacciones químicas entre sus componentes, además del calor y el maltrato, pueden destruir los datos digitales. Por lo tanto, hay que revisar periódicamente la información para detectar las fallas. Para prevenir el deterioro temprano de los compactos, solamente hay que tratarlos bien. Los CD-R, basados en tinturas orgánicas, son más perecederos y volátiles que los compactos y los CD-ROM. Hay que verificar la copia de seguridad cada 2 años o menos. Es conveniente, la práctica de hacer doble copia de todos los datos y respaldar la información cada dos años.
+
 # Lectura y escritura.
 
 Los discos ópticos presentan una capa interna protegida, donde se guardan los bits mediante distintas tecnologías, siendo que en todas ellas dichos bits se leen merced a un rayo láser incidente. Este, al ser reflejado, permite detectar variaciones microscópicas de propiedades óptico-reflectivas ocurridas como consecuencia de la grabación realizada en la escritura. Un sistema óptico con lentes encamina el haz luminoso, y lo enfoca como un punto en la capa del disco que almacena los datos.
@@ -77,5 +79,3 @@ Introducido en 1996, permite grabar datos al igual que el CD-R,con el mismo hard
 ## MiniCD
 
 Es un disco de 80 mm que puede almacenar hasta 21 minutos de música o 180 MB de datos. Debido a su tamaño no funciona en algunos lectores,como los de los automóviles.
-
-Las reacciones químicas entre sus componentes, además del calor y el maltrato, pueden destruir los datos digitales. Por lo tanto, hay que revisar periódicamente la información para detectar las fallas. Para prevenir el deterioro temprano de los compactos, solamente hay que tratarlos bien. Los CD-R, basados en tinturas orgánicas, son más perecederos y volátiles que los compactos y los CD-ROM. Hay que verificar la copia de seguridad cada 2 años o menos. Es conveniente, la práctica de hacer doble copia de todos los datos y respaldar la información cada dos años.
